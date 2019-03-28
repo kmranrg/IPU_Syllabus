@@ -26,30 +26,33 @@
             android:id="@+id/llv1" >
 
             <TextView
+                android:id="@+id/tv1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Select Stream"
-                android:textSize="30sp"
-                android:textStyle="normal|bold"
-                android:id="@+id/tv1"
-                android:layout_marginTop="9dp"
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
-                android:textAlignment="center" />
+                android:layout_marginTop="9dp"
+                android:text="STREAMS"
+                android:textAlignment="center"
+                android:textColor="@color/colorPrimary"
+                android:textSize="30sp"
+                android:textStyle="normal|bold" />
 
             <Button
-                android:text="Common to all Branches (1st Year)"
+                android:id="@+id/bt1"
+                style="@android:style/Widget.Button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="22dp"
-                android:id="@+id/bt1"
                 android:layout_below="@+id/tv1"
                 android:layout_alignParentStart="true"
+                android:layout_marginTop="22dp"
+                android:backgroundTint="@color/colorPrimary"
                 android:elevation="0dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="Common to all Branches (1st Year)"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium"
-                style="@android:style/Widget.Button" />
+                android:textColor="@color/colorAccent" />
 
             <Button
                 android:text="Computer Science and Engineering"
@@ -62,7 +65,9 @@
                 android:textAlignment="viewStart"
                 android:fontFamily="sans-serif-medium"
                 style="@android:style/Widget.Button"
-                android:textAllCaps="true" />
+                android:textAllCaps="true"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="Civil Engineering"
@@ -75,20 +80,24 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
-                android:text="Electronics and Communication Engineering"
+                android:id="@+id/bt4"
+                style="@android:style/Widget.Button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/bt4"
-                android:layout_marginTop="11dp"
                 android:layout_below="@+id/bt3"
                 android:layout_alignParentStart="true"
-                style="@android:style/Widget.Button"
+                android:layout_marginTop="11dp"
+                android:backgroundTint="@color/colorPrimary"
+                android:fontFamily="sans-serif-medium"
+                android:text="Electronics and Communication Engineering"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:textColor="@color/colorAccent" />
 
             <Button
                 android:text="Electrical Engineering"
@@ -101,7 +110,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="Electrical and Electronics Engineering"
@@ -114,7 +125,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="Environmental Engineering"
@@ -127,7 +140,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="Instrumentation and Control Engineering"
@@ -140,7 +155,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="Information Technology"
@@ -153,7 +170,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="Mechanical and Automation Engineering"
@@ -166,7 +185,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="Mechanical Engineering"
@@ -179,7 +200,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="Mechatronics"
@@ -192,7 +215,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="Power Engineering"
@@ -205,7 +230,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="Tool Engineering"
@@ -218,7 +245,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
             <Button
                 android:text="About Developer"
@@ -231,7 +260,9 @@
                 style="@android:style/Widget.Button"
                 android:textAlignment="viewStart"
                 android:textAllCaps="true"
-                android:fontFamily="sans-serif-medium" />
+                android:fontFamily="sans-serif-medium"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/colorAccent"/>
 
 
             </LinearLayout>
