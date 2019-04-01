@@ -30,9 +30,9 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="11dp"
             android:gravity="center"
-            android:text="Hey there, I am Kumar Anurag, the Chief Developer of Ukan. This is completely an offline app. You can see the syllabus of any stream of GGSIP University."
-            android:textColor="#000000"
-            android:textSize="18.5sp" />
+            android:text="Hey there, I am Kumar Anurag, the Chief Developer of Ukan. This is completely an offline app. You can see the syllabus of any B.Tech. stream under GGSIP University."
+            android:textColor="#212121"
+            android:textSize="17sp" />
 
         <TextView
             android:id="@+id/about_us_text2"
@@ -43,8 +43,8 @@
             android:layout_marginTop="11dp"
             android:gravity="center"
             android:text="Instagram ID: kmranrg"
-            android:textColor="#000000"
-            android:textSize="18.5sp" />
+            android:textColor="#212121"
+            android:textSize="17sp" />
 
         <TextView
             android:id="@+id/about_us_text3"
@@ -55,8 +55,8 @@
             android:layout_marginTop="0dp"
             android:gravity="center"
             android:text="Contribute To: paypal.me/kmranrg"
-            android:textColor="#000000"
-            android:textSize="18.5sp" />
+            android:textColor="#212121"
+            android:textSize="17sp" />
 
         <TextView
             android:id="@+id/about_us_text4"
@@ -64,10 +64,10 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/about_us_text3"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="18dp"
+            android:layout_marginTop="20dp"
             android:gravity="center"
             android:text="App version: 1.2"
-            android:textColor="#212121"
+            android:textColor="#D3D3D3"
             android:textSize="17sp" />
 
     </RelativeLayout>
