@@ -9,14 +9,14 @@ import com.github.barteksc.pdfviewer.PDFView;
  * Created by Kumar Anurag on 7/14/2017.
  */
 
-public class Main11Activity extends AppCompatActivity {
+public class PDF_14 extends AppCompatActivity {
     PDFView pdfView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.activity_pdf);
         pdfView= (PDFView)findViewById(R.id.pdfView);
-        pdfView.fromAsset("mae.pdf").load();
+        pdfView.fromAsset("tool.pdf").load();
     }
 }

@@ -18,21 +18,21 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity"></activity>
-        <activity android:name=".Main2Activity"></activity>
-        <activity android:name=".Main3Activity"></activity>
-        <activity android:name=".Main4Activity"></activity>
-        <activity android:name=".Main5Activity"></activity>
-        <activity android:name=".Main6Activity"></activity>
-        <activity android:name=".Main7Activity"></activity>
-        <activity android:name=".Main8Activity"></activity>
-        <activity android:name=".Main9Activity"></activity>
-        <activity android:name=".Main10Activity"></activity>
-        <activity android:name=".Main11Activity"></activity>
-        <activity android:name=".Main12Activity"></activity>
-        <activity android:name=".Main13Activity"></activity>
-        <activity android:name=".Main14Activity"></activity>
-        <activity android:name=".Main15Activity"></activity>
-        <activity android:name=".Main16Activity"></activity>
+        <activity android:name=".PDF_1"></activity>
+        <activity android:name=".PDF_2"></activity>
+        <activity android:name=".PDF_3"></activity>
+        <activity android:name=".PDF_4"></activity>
+        <activity android:name=".PDF_5"></activity>
+        <activity android:name=".PDF_6"></activity>
+        <activity android:name=".PDF_7"></activity>
+        <activity android:name=".PDF_8"></activity>
+        <activity android:name=".PDF_9"></activity>
+        <activity android:name=".PDF_10"></activity>
+        <activity android:name=".PDF_11"></activity>
+        <activity android:name=".PDF_12"></activity>
+        <activity android:name=".PDF_13"></activity>
+        <activity android:name=".PDF_14"></activity>
+        <activity android:name=".Activity_Dev"></activity>
     </application>
 
 </manifest>
