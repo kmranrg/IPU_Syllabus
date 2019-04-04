@@ -9,15 +9,15 @@ import com.github.barteksc.pdfviewer.PDFView;
  * Created by Kumar Anurag on 7/14/2017.
  */
 
-public class Main8Activity extends AppCompatActivity{
+public class PDF_5 extends AppCompatActivity{
 
     PDFView pdfView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.activity_pdf);
         pdfView= (PDFView)findViewById(R.id.pdfView);
-        pdfView.fromAsset("environmental.pdf").load();
+        pdfView.fromAsset("ee.pdf").load();
     }
 }
