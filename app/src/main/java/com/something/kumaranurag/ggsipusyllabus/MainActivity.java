@@ -45,17 +45,16 @@ public class MainActivity extends AppCompatActivity {
         bt2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_2.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_2.class);
                 startActivity(i);
 
             }
-
         });
 
         bt3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_3.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_3.class);
                 startActivity(i);
 
             }
@@ -65,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
         bt4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_4.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_4.class);
                 startActivity(i);
 
             }
@@ -75,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         bt5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_5.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_5.class);
                 startActivity(i);
 
             }
@@ -85,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
         bt6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_6.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_6.class);
                 startActivity(i);
 
             }
@@ -95,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
         bt7.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_7.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_7.class);
                 startActivity(i);
 
             }
@@ -105,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
         bt8.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_8.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_8.class);
                 startActivity(i);
 
             }
@@ -115,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
         bt9.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_9.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_9.class);
                 startActivity(i);
 
             }
@@ -125,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
         bt10.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_10.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_10.class);
                 startActivity(i);
 
             }
@@ -135,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
         bt11.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_11.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_11.class);
                 startActivity(i);
 
             }
@@ -145,7 +144,7 @@ public class MainActivity extends AppCompatActivity {
         bt12.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_12.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_12.class);
                 startActivity(i);
 
             }
@@ -155,7 +154,7 @@ public class MainActivity extends AppCompatActivity {
         bt13.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_13.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_13.class);
                 startActivity(i);
 
             }
@@ -165,7 +164,7 @@ public class MainActivity extends AppCompatActivity {
         bt14.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(MainActivity.this, PDF_14.class);
+                Intent i =new Intent(MainActivity.this, Sem_Layout_PDF_14.class);
                 startActivity(i);
 
             }

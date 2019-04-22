@@ -1,0 +1,151 @@
+-----------
+
+Note: Page numbers are one less than the actual ones
+
+Format:
+<subject_name>
+sem <#no> - <#page_no>
+-----------
+
+civil
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 52
+sem 5 - 65
+sem 6 - 80
+sem 7 - 91
+sem 8 - 111
+-----------
+
+cse
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 50
+sem 5 - 61
+sem 6 - 73
+sem 7 - 83
+sem 8 - 111
+-----------
+
+ece
+sem 1 - 10
+sem 2 - 28
+sem 3 - 41
+sem 4 - 53
+sem 5 - 64
+sem 6 - 76
+sem 7 - 86
+sem 8 - 109
+-----------
+
+ee
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 51
+sem 5 - 61
+sem 6 - 75
+sem 7 - 85
+sem 8 - 105
+-----------
+
+eee
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 51
+sem 5 - 62
+sem 6 - 75
+sem 7 - 85
+sem 8 - 111
+-----------
+
+environmental
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 51
+sem 5 - 64
+sem 6 - 77
+sem 7 - 91
+sem 8 - 109
+-----------
+
+ice
+sem 1 - 10
+sem 2 - 28
+sem 3 - 75
+sem 4 - 86
+sem 5 - 97
+sem 6 - 111
+sem 7 - 122
+sem 8 - 145
+-----------
+
+it
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 50
+sem 5 - 61
+sem 6 - 73
+sem 7 - 83
+sem 8 - 107
+-----------
+
+mae
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 51
+sem 5 - 62
+sem 6 - 76
+sem 7 - 87
+sem 8 - 115
+-----------
+
+me
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 51
+sem 5 - 62
+sem 6 - 74
+sem 7 - 86
+sem 8 - 117
+-----------
+
+mechatronics
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 51
+sem 5 - 62
+sem 6 - 74
+sem 7 - 85
+sem 8 - 110
+-----------
+
+power
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 50
+sem 5 - 60
+sem 6 - 73
+sem 7 - 87
+sem 8 - 112
+-----------
+
+tool
+sem 1 - 10
+sem 2 - 27
+sem 3 - 40
+sem 4 - 50
+sem 5 - 60
+sem 6 - 71
+sem 7 - 81
+sem 8 - 105
+-----------
