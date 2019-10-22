@@ -17,3 +17,7 @@
 ![Screenshot-5](https://lh3.googleusercontent.com/8T2IoRgHKKObXWcMeokUPF9UqRX6MJbaxWc-XMv8sSe-KIUx9kYBFXkc752n7uCEr1Q=w1366-h657-rw) ![Screenshot-6](https://lh3.googleusercontent.com/Cq9u0_YUuV49-BhcsvXAYZ8gnMX-xUu45QJsl3rRwatPKiBaXNQiAAEjIg-XiFHw2Vvc=w1366-h657-rw)
 
 ![Screenshot-7](https://lh3.googleusercontent.com/yCiJ6VFfgUYTRLeLoAAwHeqUZTeRY2EMyH0czHJDQI7dfRlmuChK50airRJw-qNpPHM=w1366-h657-rw)
+
+## Google Play Store Presence
+
+![Play Store](https://github.com/kmranrg/IPU_Syllabus/blob/master/app/release/ipu_syllabus_play_store.png)
