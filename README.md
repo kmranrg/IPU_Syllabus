@@ -10,13 +10,13 @@
 
 ## App Screenshots:
 
-![Screenshot-1](https://lh3.googleusercontent.com/cuXphZSMOI62Fb_KfwPBko2YuYOQtC0ZpBEbbvuybiB7RQibUVGEN7h5yUrawdZSumA=w1366-h657-rw) ![Screenshot-2](https://lh3.googleusercontent.com/h4z2o0hAX2cd90nt1sZLcMwJBq3YHumuxgVEFlYZhDaFn_QnIzXJ8IQJlNGyJWyQkhQ=w1366-h657-rw)
+![Screenshot-1](https://github.com/kmranrg/IPU_Syllabus/blob/master/app/release/ss_01.webp) ![Screenshot-2](https://github.com/kmranrg/IPU_Syllabus/blob/master/app/release/ss_02.webp)
 
-![Screenshot-3](https://lh3.googleusercontent.com/fYfKV25eQHAlM8GC7bLmZP08pylWPfffGifdRRWYZNTyWinBJygErJRmbt54lcWu8Q=w1366-h657-rw) ![Screenshot-4](https://lh3.googleusercontent.com/hA7CxZ0URI3Oi9atcGVUUNJGRKeC9HXZvMaPrRIu2mu8gyEpI8UvToEEdIFFTC00CjE=w1366-h657-rw)
+![Screenshot-3](https://github.com/kmranrg/IPU_Syllabus/blob/master/app/release/ss_03.webp) ![Screenshot-4](https://github.com/kmranrg/IPU_Syllabus/blob/master/app/release/ss_04.webp)
 
-![Screenshot-5](https://lh3.googleusercontent.com/8T2IoRgHKKObXWcMeokUPF9UqRX6MJbaxWc-XMv8sSe-KIUx9kYBFXkc752n7uCEr1Q=w1366-h657-rw) ![Screenshot-6](https://lh3.googleusercontent.com/Cq9u0_YUuV49-BhcsvXAYZ8gnMX-xUu45QJsl3rRwatPKiBaXNQiAAEjIg-XiFHw2Vvc=w1366-h657-rw)
+![Screenshot-5](https://github.com/kmranrg/IPU_Syllabus/blob/master/app/release/ss_05.webp) ![Screenshot-6](https://github.com/kmranrg/IPU_Syllabus/blob/master/app/release/ss_06.webp)
 
-![Screenshot-7](https://lh3.googleusercontent.com/yCiJ6VFfgUYTRLeLoAAwHeqUZTeRY2EMyH0czHJDQI7dfRlmuChK50airRJw-qNpPHM=w1366-h657-rw)
+![Screenshot-7](https://github.com/kmranrg/IPU_Syllabus/blob/master/app/release/ss_07.webp)
 
 ## Google Play Store Presence
 
