@@ -1,6 +1,6 @@
 # IPU_Syllabus
 
-![IPU_Syllabus](https://lh3.googleusercontent.com/tgJnzvySHnTP0VhE7RKuIWktC61uIrHaFroqXztAnNN4KgEwZh2Q53HCksmg3S3_D5ur=s180-rw)
+![IPU_Syllabus](https://github.com/kmranrg/IPU_Syllabus/blob/master/app/release/app_logo.webp)
 
 ## Features:
 
